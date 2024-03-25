@@ -138,7 +138,7 @@ if __name__ == '__main__':
     parser = argparse.ArgumentParser()
     # specify dirs
     parser.add_argument("--test_path", type=str, default='/JPEG_Image/validation_JPEG')
-    parser.add_argument("--checkpoint", type=str, default='../BasicSR/experiments/JPEG_002_SCUNet/models/net_g_ema_198000.pth') # best
+    parser.add_argument("--checkpoint", type=str, default='../experiments/JPEG_002_SCUNet/models/net_g_ema_198000.pth') # best
     parser.add_argument("--enhance", action="store_true")
     args = parser.parse_args()
     main(args)
