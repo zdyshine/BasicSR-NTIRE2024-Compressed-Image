@@ -1,4 +1,4 @@
-# NTIRE 2024 Blind Compressed Image Enhancement Challenge - PixelAtiAI
+# NTIRE 2024 Blind Compressed Image Enhancement Challenge - PixelArtAI
 NTIRE 2024 Blind Compressed Image Enhancement Challenge    
 https://codalab.lisn.upsaclay.fr/competitions/17548#learn_the_details    
 
