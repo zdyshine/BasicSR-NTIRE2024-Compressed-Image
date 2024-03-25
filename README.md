@@ -1,7 +1,10 @@
 # NTIRE 2024 Blind Compressed Image Enhancement Challenge - PixelAtiAI
-# Title: Blind JPEG Artifacts Removal via Enhanced Swin-Conv-UNet
 NTIRE 2024 Blind Compressed Image Enhancement Challenge    
 https://codalab.lisn.upsaclay.fr/competitions/17548#learn_the_details    
+
+## Title: Blind JPEG Artifacts Removal via Enhanced Swin-Conv-UNet
+Based on the original SCUNet [1], we made several modifications to en-hance the model’s performance while maintaining a maximum of 300M parameters.Firstly, we increased the number of channels in the model from [64, 128,256, 512] to [96, 192, 384, 768]. Secondly, we increased the number of downsampling and upsampling modules in the model. This changes in SCUNet allows the model to capture more features and details in the input data. By increasing the model parameters, the model has gained stronger learning capabilities. Compared to the baseline, the performance metrics have been significantly improved.    
+
 ## Description
 #### train code
 Code Description:
