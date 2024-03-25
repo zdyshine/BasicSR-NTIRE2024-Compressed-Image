@@ -1,4 +1,5 @@
 # NTIRE 2024 Blind Compressed Image Enhancement Challenge - PixelAtiAI
+# Title: Blind JPEG Artifacts Removal via Enhanced Swin-Conv-UNet
 NTIRE 2024 Blind Compressed Image Enhancement Challenge    
 https://codalab.lisn.upsaclay.fr/competitions/17548#learn_the_details    
 ## Description
@@ -97,3 +98,7 @@ dataset/SR:
 ```
 DIV2K_0001_0020 is validation dataset directory: 
 00000.png ~ 00021.png of DIV2K
+
+## Thanks
+https://github.com/XPixelGroup/BasicSR    
+https://github.com/cszn/SCUNet    
