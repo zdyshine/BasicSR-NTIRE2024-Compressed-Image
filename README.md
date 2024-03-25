@@ -102,6 +102,6 @@ dataset/SR:
 DIV2K_0001_0020 is validation dataset directory: 
 00000.png ~ 00021.png of DIV2K
 
-## Thanks
+## Acknowledgement
 https://github.com/XPixelGroup/BasicSR    
 https://github.com/cszn/SCUNet    
